@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+tupac666 הוא מתכנת FiveM מנוסה עם 3 שנות תכנות ו-6 שנים בקהילה. פיתוח Full Stack מותאם אישית לשרתי GTA V. גלה מה אפשר לבנות ביחד.
+
+### שירותים
+https://example.com/services
+מסקריפטים מותאמים ועד מערכות מלאות — tupac666 מציע תכנות שרת FiveM לפי הזמנה עם ניסיון אמיתי מתוך הקהילה. כל פרויקט נבנה בדיוק לפי הצרכים שלך.
+
+### אודות
+https://example.com/about
+גדל בתוך קהילת FiveM, tupac666 הוא לא רק מתכנת — הוא חלק מהתרבות. פיתוח Full Stack עם הבנה עמוקה של האקוסיסטם שהלקוחות שלו חיים בו כל יום.
+
+### צור קשר
+https://example.com/contact
+יש לך רעיון לשרת FiveM? tupac666 כאן לשמוע. צור קשר עוד היום לקבלת ייעוץ ראשוני חינם ותכנות שרת FiveM לפי הזמנה שיתאים בדיוק לחזון שלך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
